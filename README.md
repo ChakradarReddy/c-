@@ -1,1 +1,2 @@
-# c-
+# c++
+Built a program for solving mathematical equations.                                                                             Different type of equations were solved by different team                                                             members using different algorithms.The program will                                                                                 take any equation and solve the equation by separating                                                                          the coefficients from the equation .
